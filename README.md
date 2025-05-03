@@ -39,6 +39,11 @@ This project presents an in-depth **Electric Vehicle (EV) Sales Analysis** acros
 - EV Penetration Rate
 - Sales Trends Over Time
 - State-level Analysis
+- State-wise EV penetration across 35 states
+- Top EV makers and their sales performance
+- Sales trend over 4 years (2021–2024)
+- 2-Wheeler vs 4-Wheeler analysis
+- Market penetration rate comparisons
 
 ---
 
@@ -46,6 +51,7 @@ This project presents an in-depth **Electric Vehicle (EV) Sales Analysis** acros
 - Maharashtra & Karnataka lead in EV sales.
 - OLA Electric is the top 2W EV maker.
 - EV adoption is growing rapidly year-on-year.
+  
 
 ---
 
